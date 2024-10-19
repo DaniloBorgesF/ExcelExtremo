@@ -1,0 +1,3 @@
+Toda vez que precisamos saber o maior valor em um conjunto de dado.
+
+Podemos utilizar =MÁXIMO()
